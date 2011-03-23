@@ -1,7 +1,7 @@
 TBMICalculator
 v7
 r0
-t322553675.769322
+t322557175.065577
 cCheck dependencies
 cProcessInfoPlistFile /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/Info.plist BMICalculator-Info.plist
 cCompileXIB /Users/trivuong/Desktop/iphone_app/BMICalculator/MainWindow.xib
@@ -45,9 +45,9 @@ t1281507972
 s31598784
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculatorViewController.xib
-c000000004D898FC40000000000008467
-t1300860868
-s33895
+c000000004D899A430000000000008443
+t1300863555
+s33859
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculator_Prefix.pch
 c000000004D89367C00000000000000C3
@@ -70,15 +70,15 @@ i"BMICalculatorAppDelegate.h"
 i"BMICalculatorViewController.h"
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.h
-c000000004D898984000000000000031A
-t1300859268
+c000000004D899A43000000000000031A
+t1300863555
 s794
 i<UIKit/UIKit.h>
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.m
-c000000004D898F0A0000000000000A0E
-t1300860682
-s2574
+c000000004D899D5A0000000000000B22
+t1300864346
+s2850
 i"BMICalculatorViewController.h"
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/MainWindow.xib
@@ -92,31 +92,31 @@ t1300842347
 s475
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorAppDelegate.o
-t1300859277
+t1300864167
 s49188
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorViewController.o
-t1300860875
-s50044
+t1300864375
+s50652
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/main.o
 t1300842349
 s6324
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app
-t1300860875
+t1300864375
 s238
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app.dSYM
-t1300860875
+t1300864375
 s102
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator
-t1300860875
-s19824
+t1300864375
+s19892
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculatorViewController.nib
-t1300860875
+t1300863555
 s5851
 
 N/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/Info.plist
@@ -148,11 +148,11 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies322553675#322553675#0(0"0(0#1#0"8614383200#0"0#
+lSLF07#2@18"Check dependencies322557174#322557174#0(0"0(0#1#0"8627917216#0"0#
 
 CCompileC build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorAppDelegate.o /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322552077.673480
-e322552077.764736
+s322556967.670764
+e322556967.766234
 r1
 xCompileC
 xbuild/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorAppDelegate.o
@@ -161,11 +161,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@91"Compile /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorAppDelegate.m322552077#322552077#0(0"0(0#0#83"/Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorAppDelegate.m8615240768#2192"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/include -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources/i386 -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources -include /var/folders/uT/uT+nAAxSGuu0XzD7Dq6V1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-ccmxbbkollwhcfdbbsrqlaspvmsl/BMICalculator_Prefix.pch -c /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorAppDelegate.m -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorAppDelegate.o0#
+lSLF07#2@91"Compile /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorAppDelegate.m322556967#322556967#0(0"0(0#0#83"/Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorAppDelegate.m5567064262053164032#2192"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/include -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources/i386 -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources -include /var/folders/uT/uT+nAAxSGuu0XzD7Dq6V1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-ccmxbbkollwhcfdbbsrqlaspvmsl/BMICalculator_Prefix.pch -c /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorAppDelegate.m -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorAppDelegate.o0#
 
 CCompileC build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorViewController.o /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322553675.589962
-e322553675.727312
+s322557174.880750
+e322557175.024568
 r1
 xCompileC
 xbuild/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorViewController.o
@@ -174,7 +174,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@94"Compile /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.m322553675#322553675#0(0"0(0#0#86"/Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.m8616921248#2198"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/include -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources/i386 -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources -include /var/folders/uT/uT+nAAxSGuu0XzD7Dq6V1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-ccmxbbkollwhcfdbbsrqlaspvmsl/BMICalculator_Prefix.pch -c /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.m -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorViewController.o0#
+lSLF07#2@94"Compile /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.m322557174#322557175#0(0"0(0#0#86"/Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.m8628045536#2198"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/include -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources/i386 -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources -include /var/folders/uT/uT+nAAxSGuu0XzD7Dq6V1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-ccmxbbkollwhcfdbbsrqlaspvmsl/BMICalculator_Prefix.pch -c /Users/trivuong/Desktop/iphone_app/BMICalculator/Classes/BMICalculatorViewController.m -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculatorViewController.o0#
 
 CCompileC build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/main.o /Users/trivuong/Desktop/iphone_app/BMICalculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s322535149.368477
@@ -190,12 +190,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@63"Compile /Users/trivuong/Desktop/iphone_app/BMICalculator/main.m322535149#322535149#0(0"0(0#0#55"/Users/trivuong/Desktop/iphone_app/BMICalculator/main.m8611680192#2144"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/include -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources/i386 -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources -include /var/folders/uT/uT+nAAxSGuu0XzD7Dq6V1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-ccmxbbkollwhcfdbbsrqlaspvmsl/BMICalculator_Prefix.pch -c /Users/trivuong/Desktop/iphone_app/BMICalculator/main.m -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculatorViewController.xib
-s322553675.056585
-e322553675.589498
+s322556307.282196
+e322556307.742417
 r1
 xCompileXIB
 x/Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculatorViewController.xib
-lSLF07#2@42"CompileXIB BMICalculatorViewController.xib322553675#322553675#0(0"0(0#0#80"/Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculatorViewController.xib8616361280#640"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculatorViewController.nib /Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+lSLF07#2@42"CompileXIB BMICalculatorViewController.xib322556307#322556307#0(0"0(0#0#80"/Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculatorViewController.xib8616088640#640"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculatorViewController.nib /Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB /Users/trivuong/Desktop/iphone_app/BMICalculator/MainWindow.xib
 s322535147.618848
@@ -206,23 +206,23 @@ x/Users/trivuong/Desktop/iphone_app/BMICalculator/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib322535147#322535148#0(0"0(0#0#63"/Users/trivuong/Desktop/iphone_app/BMICalculator/MainWindow.xib8610604128#606"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/MainWindow.nib /Users/trivuong/Desktop/iphone_app/BMICalculator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CGenerateDSYMFile /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app.dSYM /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator
-s322553675.751509
-e322553675.766712
+s322557175.048171
+e322557175.062717
 r1
 xGenerateDSYMFile
 x/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app.dSYM
 x/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator
-lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/BMICalculator.app.dSYM build/Debug-iphonesimulator/BMICalculator.app/BMICalculator322553675#322553675#0(0"0(0#0#108"/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator8617136576#431"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app.dSYM0#
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/BMICalculator.app.dSYM build/Debug-iphonesimulator/BMICalculator.app/BMICalculator322557175#322557175#0(0"0(0#0#108"/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator8626694592#431"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app.dSYM0#
 
 CLd /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator normal i386
-s322553675.727417
-e322553675.751409
+s322557175.024711
+e322557175.048050
 r1
 xLd
 x/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator
 xnormal
 xi386
-lSLF07#2@113"Link /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator322553675#322553675#0(0"0(0#0#0"8618466912#980"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -F/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -filelist /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator0#
+lSLF07#2@113"Link /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator322557175#322557175#0(0"0(0#0#0"8627589696#980"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -F/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -filelist /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/Objects-normal/i386/BMICalculator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/BMICalculator0#
 
 CProcessInfoPlistFile /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app/Info.plist BMICalculator-Info.plist
 s322535147.570213
@@ -247,10 +247,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@35"Precompile BMICalculator_Prefix.pch322535148#322535149#0(0"0(0#0#73"/Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculator_Prefix.pch8613146176#2020"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-generated-files.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-own-target-headers.hmap -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-all-target-headers.hmap -iquote /Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/BMICalculator-project-headers.hmap -F/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/include -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources/i386 -I/Users/trivuong/Desktop/iphone_app/BMICalculator/build/BMICalculator.build/Debug-iphonesimulator/BMICalculator.build/DerivedSources -c /Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculator_Prefix.pch -o /var/folders/uT/uT+nAAxSGuu0XzD7Dq6V1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BMICalculator_Prefix-ccmxbbkollwhcfdbbsrqlaspvmsl/BMICalculator_Prefix.pch.gch0#
 
 CTouch /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app
-s322553675.766796
-e322553675.769286
+s322557175.062815
+e322557175.065519
 r1
 xTouch
 x/Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app
-lSLF07#2@100"Touch /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app322553675#322553675#0(0"0(0#0#0"8616686016#304"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app0#
+lSLF07#2@100"Touch /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app322557175#322557175#0(0"0(0#0#0"8626379072#304"    cd /Users/trivuong/Desktop/iphone_app/BMICalculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/trivuong/Desktop/iphone_app/BMICalculator/build/Debug-iphonesimulator/BMICalculator.app0#
 

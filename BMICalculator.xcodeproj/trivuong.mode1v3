@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -307,8 +309,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -323,17 +323,11 @@
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
 										<string>BMICalculatorViewController.m</string>
-										<key>_historyCapacity</key>
-										<integer>0</integer>
-										<key>bookmark</key>
-										<string>B547B0B41339C68C00BB039E</string>
 										<key>history</key>
 										<array>
 											<string>B547AFBB13398A1A00BB039E</string>
 											<string>B547B06C1339C01F00BB039E</string>
 											<string>B547B0801339C10E00BB039E</string>
-											<string>B547B08F1339C3F100BB039E</string>
-											<string>B547B0881339C14600BB039E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -345,14 +339,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1340, 536}}</string>
+								<string>{{0, 0}, {1340, 531}}</string>
 								<key>RubberWindowFrame</key>
 								<string>894 207 1612 763 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>536pt</string>
+							<string>531pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -365,14 +359,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 541}, {1340, 181}}</string>
+								<string>{{0, 536}, {1340, 186}}</string>
 								<key>RubberWindowFrame</key>
 								<string>894 207 1612 763 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>181pt</string>
+							<string>186pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -391,9 +385,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>B547AF8313396E0800BB039E</string>
+				<string>B547B0C61339D1CB00BB039E</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>B547AF8413396E0800BB039E</string>
+				<string>B547B0C71339D1CB00BB039E</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -531,12 +525,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>B547B0B31339C61E00BB039E</string>
-		<string>B547B07B1339C0C600BB039E</string>
-		<string>B547B07C1339C0C600BB039E</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>B547AF8613396E0800BB039E</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/trivuong/Desktop/iphone_app/BMICalculator/BMICalculator.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -561,7 +550,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>BMICalculatorViewController.h</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -578,8 +567,6 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -619,7 +606,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>B547AF8613396E0800BB039E</string>
-				<string>B547AF8713396E0800BB039E</string>
+				<string>B547B0C81339D1CB00BB039E</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

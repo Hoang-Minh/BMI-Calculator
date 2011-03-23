@@ -28,19 +28,27 @@
 	double weight = [weightField.text doubleValue];
 	double bmi = 0;
 	
-	if ([unitSegment selectedSegmentIndex] == 0) {
-		bmi = (weight/(height*height));
+	//Some basic error prevention
+	if (weight > 0 && height > 0) {
+		
+		//I'm not sure why selectedSegmentIndex is always 0, even after I toggle the segments.
+		//What am I missing?
+		if ([unitSegment selectedSegmentIndex] == 0) {
+			bmi = (weight/(height*height));
+		} else {
+			bmi = (weight*4.88/(height*height));
+		}
+		
+		NSLog(@"%d", [unitSegment selectedSegmentIndex]);
+		
+		NSString *msg = [[NSString alloc] initWithFormat:@"Your BMI is %f", bmi];
+		UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Result" message:msg delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
+		[alert show];
+		[alert release];
+		[msg release];
 	} else {
-		bmi = (weight*4.88/(height*height));
+		[NSException raise:@"Invalid value of height or weight" format:@""];
 	}
-	
-	NSLog(@"%d", [unitSegment selectedSegmentIndex]);
-	
-	NSString *msg = [[NSString alloc] initWithFormat:@"Your BMI is %f", bmi];
-	UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Result" message:msg delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
-	[alert show];
-	[alert release];
-	[msg release];
 }
 
 /*
